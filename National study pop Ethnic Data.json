@@ -1,0 +1,139 @@
+{
+"Ethnic data":[
+ {
+  "Column1": 1,
+  "Ethnicity": "United Arab Emirates",
+  "Total": 4170
+ },
+ {
+  "Column1": 2,
+  "Ethnicity": "Côte d'Ivoire (Ivory Coast)",
+  "Total": 6357
+ },
+ {
+  "Column1": 3,
+  "Ethnicity": "Cameroon",
+  "Total": 42032
+ },
+ {
+  "Column1": 4,
+  "Ethnicity": "Egypt",
+  "Total": 145074
+ },
+ {
+  "Column1": 5,
+  "Ethnicity": "Eritrea",
+  "Total": 32867
+ },
+ {
+  "Column1": 6,
+  "Ethnicity": "Ethiopia",
+  "Total": 163969
+ },
+ {
+  "Column1": 7,
+  "Ethnicity": "Ghana",
+  "Total": 108071
+ },
+ {
+  "Column1": 8,
+  "Ethnicity": "Guinea",
+  "Total": 8572
+ },
+ {
+  "Column1": 9,
+  "Ethnicity": "Gambia",
+  "Total": 9471
+ },
+ {
+  "Column1": 10,
+  "Ethnicity": "Indonesia",
+  "Total": 70166
+ },
+ {
+  "Column1": 11,
+  "Ethnicity": "Kenya",
+  "Total": 72271
+ },
+ {
+  "Column1": 12,
+  "Ethnicity": "Kurdistan",
+  "Total": 14707
+ },
+ {
+  "Column1": 13,
+  "Ethnicity": "Kuwait",
+  "Total": 9047
+ },
+ {
+  "Column1": 14,
+  "Ethnicity": "Liberia",
+  "Total": 63662
+ },
+ {
+  "Column1": 15,
+  "Ethnicity": "Malaysia",
+  "Total": 26191
+ },
+ {
+  "Column1": 16,
+  "Ethnicity": "Nigeria",
+  "Total": 257934
+ },
+ {
+  "Column1": 17,
+  "Ethnicity": "Saudi Arabia",
+  "Total": 31973
+ },
+ {
+  "Column1": 18,
+  "Ethnicity": "Sudan",
+  "Total": 37838
+ },
+ {
+  "Column1": 19,
+  "Ethnicity": "Senegal",
+  "Total": 14722
+ },
+ {
+  "Column1": 20,
+  "Ethnicity": "Sierra Leone",
+  "Total": 26368
+ },
+ {
+  "Column1": 21,
+  "Ethnicity": "Somalia",
+  "Total": 94801
+ },
+ {
+  "Column1": 22,
+  "Ethnicity": "Togo",
+  "Total": 10818
+ },
+ {
+  "Column1": 23,
+  "Ethnicity": "Tanzania",
+  "Total": 11924
+ },
+ {
+  "Column1": 24,
+  "Ethnicity": "Uganda",
+  "Total": 15721
+ },
+ {
+  "Column1": 25,
+  "Ethnicity": "Yemen",
+  "Total": 41431
+ },
+ {
+  "Column1": 26,
+  "Ethnicity": "Zambia",
+  "Total": 5832
+ },
+ {
+  "Column1": 27,
+  "Ethnicity": "Total",
+  "Total": 1325989
+ }
+]
+}
